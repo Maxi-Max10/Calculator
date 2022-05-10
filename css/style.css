@@ -58,6 +58,11 @@ button:active{
     box-shadow: 5px 5px 10px -3px #1e1e1e9e;
     
 }
+
+button:focus{
+    outline: none;
+}
+
 .c:active{
     background-color: #6d0202;
 }
